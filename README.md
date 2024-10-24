@@ -61,8 +61,8 @@ Para executar os códigos neste repositório, você precisará ter um compilador
    - No macOS: `brew install gcc`
 
 2. **Compilar e Executar**:
-   - Para compilar: `g++ nome_do_arquivo.cpp -o nome_do_programa`
-   - Para executar: `./nome_do_programa`
+   - Para compilar: `gcc nome_do_arquivo.c`
+   - Para executar: `./a.out`
 
 ---
 
