@@ -25,7 +25,7 @@
 
 Aqui está a distribuição das linguagens usadas no repositório com base nos pushs.
 
-![Linguagens](https://img.shields.io/github/languages/top/Giovani-Simple-Dev//C-Knowloedge)
+![Linguagens](https://img.shields.io/github/languages/top/Giovani-Simple-Dev/C-Knowloedge)
 
 ---
 
