@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="306" />
+   
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" alt="C Logo" width="306" />
 
 ---
@@ -15,9 +15,9 @@ Bem-vindo ao repositório **C-Knowledge**! Este projeto contém todos os arquivo
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagens**: C, C++
-- **Compiladores**: g++, Visual Studio
-- **IDE**: Visual Studio Code, Code::Blocks
+- **Linguagens**: C
+- **Compiladores**: gcc
+- **IDE**: Visual Studio Code
 
 ---
 
@@ -55,7 +55,7 @@ Para executar os códigos neste repositório, você precisará ter um compilador
 
 ### Passos para Instalação:
 
-1. **Instalar g++**:
+1. **Instalar gcc**:
    - No Ubuntu: `sudo apt install g++`
    - No Windows: Instale o [MinGW](http://www.mingw.org/).
    - No macOS: `brew install gcc`
@@ -68,20 +68,15 @@ Para executar os códigos neste repositório, você precisará ter um compilador
 
 ## 🎥 Vídeos de Codificação
 
-Aqui estão alguns vídeos que podem ajudar no seu aprendizado de C e C++:
+Aqui estão alguns vídeos que podem ajudar no seu aprendizado de C:
 
-- [C++ Programming Tutorials](https://www.youtube.com/watch?v=Zza_ARS78Og) - Um tutorial introdutório sobre C++.
 - [C Programming Tutorials](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Um tutorial introdutório sobre C.
 - [Terminal Basics](https://www.youtube.com/watch?v=wxKNk2SxL7Q) - Uma visão geral dos comandos básicos do terminal.
-- [Coding in C++ - Live Coding Session](https://www.youtube.com/watch?v=8O0Y6Xp9N0U) - Uma sessão de codificação ao vivo em C++.
 
 ---
 
 ## 🔗 Tutoriais e Links Úteis
 
-- [Documentação C++](https://en.cppreference.com/w/)
-- [Learn C++](https://www.learncpp.com/)
-- [Codecademy - Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
 - [Documentação C](https://en.cppreference.com/w/c)
 
 ---
@@ -112,17 +107,7 @@ Aqui está a distribuição das linguagens usadas no repositório.
 
 Aqui estão alguns exemplos de como você pode usar os códigos e projetos neste repositório:
 
-### Exemplo em C++
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Olá, Mundo!" << endl;
-    return 0;
-}
-```
+### Exemplo em C
 
 ```c
 #include <stdio.h>
