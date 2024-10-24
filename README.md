@@ -11,13 +11,13 @@
 
 ## Contador de Visitas
 
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Giovani-Simple-Dev.C-Knowledge)
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Giovani-Simple-Dev./C-Knowloedge)
 
 ---
 
 ## Contagem de Push's (Commits)
 
-![GitHub commits](https://badgen.net/github/commits/Giovani-Simple-Dev/C-Knowledge)
+![GitHub commits](https://badgen.net/github/commits/Giovani-Simple-Dev//C-Knowloedge)
 
 ---
 
@@ -25,11 +25,11 @@
 
 Aqui está a distribuição das linguagens usadas no repositório com base nos pushs.
 
-![Linguagens](https://img.shields.io/github/languages/top/Giovani-Simple-Dev/C-Knowledge)
+![Linguagens](https://img.shields.io/github/languages/top/Giovani-Simple-Dev//C-Knowloedge)
 
 ---
 
 ## Estatísticas do Repositório
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Giovani-Simple-Dev/C-Knowledge?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Giovani-Simple-Dev/C-Knowledge?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Giovani-Simple-Dev//C-Knowloedge?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Giovani-Simple-Dev//C-Knowloedge?style=social)
