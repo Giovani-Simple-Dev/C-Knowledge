@@ -58,9 +58,11 @@ Para executar os códigos neste repositório, você precisará ter um compilador
 
 ---
 
-## Gráfico de Commits
+## Gráficos de Commits e Atividade do Repositório
 
-![Gráfico de Commits](https://user-images.githubusercontent.com/11709897/181559636-0a5e9f5c-4b8d-4db2-9f4d-4f8da8f3f99a.png) <!-- Gráfico de exemplo -->
+![Gráfico de Commits](https://ghchart.rshinyapps.io/Giovani-Simple-Dev/C-Knowledge) <!-- Gráfico gerado pelo ghchart -->
+
+![Gráfico de Atividade](https://img.shields.io/github/commit-activity/m/Giovani-Simple-Dev/C-Knowledge) <!-- Gráfico de atividade de commits -->
 
 ---
 
