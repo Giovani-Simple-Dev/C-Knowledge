@@ -31,5 +31,5 @@ Aqui está a distribuição das linguagens usadas no repositório com base nos p
 
 ## Estatísticas do Repositório
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Giovani-Simple-Dev//C-Knowloedge?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Giovani-Simple-Dev//C-Knowloedge?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Giovani-Simple-Dev/C-Knowloedge?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Giovani-Simple-Dev/C-Knowloedge?style=social)
