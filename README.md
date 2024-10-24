@@ -122,3 +122,12 @@ int main() {
     cout << "Olá, Mundo!" << endl;
     return 0;
 }
+```
+
+```c
+#include <stdio.h>
+
+   int main(){
+        printf("Hello, World!");
+        return 0;
+   }
