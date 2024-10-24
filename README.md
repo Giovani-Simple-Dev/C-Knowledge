@@ -1,33 +1,57 @@
-# Aqui vou adicionar todos os arquivos feitos durante o aprendizado de C++
+# 📚 C-Knowledge: Aprendizado em C e C++
 
 <div align="center">
 
-## Ícones das Linguagens de Programação
-
-<div>
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="306" height="344" style="margin-right: 50px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" width="306" height="344" style="margin-left: 50px;" />
-</div>
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="306" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" alt="C Logo" width="306" />
 
 ---
 
 ## Introdução
 
-Este repositório contém todos os arquivos e projetos desenvolvidos durante meu aprendizado em C++. O objetivo é explorar e implementar conceitos fundamentais de programação, bem como compartilhar conhecimento e experiências adquiridas.
+Bem-vindo ao repositório **C-Knowledge**! Este projeto contém todos os arquivos e projetos que desenvolvi durante meu aprendizado em C e C++. O objetivo é explorar e implementar conceitos fundamentais de programação, compartilhar conhecimento e documentar as experiências adquiridas.
 
 ---
 
-## Objetivos do Projeto
+## 🛠️ Tecnologias Utilizadas
 
-- Aprender e aplicar conceitos de programação em C++.
+- **Linguagens**: C, C++
+- **Compiladores**: g++, Visual Studio
+- **IDE**: Visual Studio Code, Code::Blocks
+
+---
+
+## 📈 Gráfico de Atividade do GitHub
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giovani-Simple-Dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=00ff00" alt="GitHub Activity Graph" />
+
+---
+
+## 📊 Estatísticas do Repositório
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giovani-Simple-Dev&show_icons=true&theme=radical)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Simple-Dev&layout=compact&theme=radical)
+
+---
+
+## 🎯 Objetivos do Projeto
+
+- Aprender e aplicar conceitos de programação em C e C++.
 - Criar uma base sólida em estruturas de dados e algoritmos.
 - Compartilhar exemplos práticos e desafios enfrentados.
+- Aprimorar habilidades em resolução de problemas e lógica de programação.
+- Explorar a programação orientada a objetos (POO) e suas aplicações.
 
 ---
 
-## Instalação
+## 📦 Estrutura do Repositório
 
-Para executar os códigos neste repositório, você precisará ter um compilador C++ instalado. Recomenda-se o uso do [g++](https://gcc.gnu.org/) ou [Visual Studio](https://visualstudio.microsoft.com/).
+
+---
+
+## 🛠️ Instalação
+
+Para executar os códigos neste repositório, você precisará ter um compilador C/C++ instalado. Recomenda-se o uso do [g++](https://gcc.gnu.org/) ou [Visual Studio](https://visualstudio.microsoft.com/).
 
 ### Passos para Instalação:
 
@@ -42,60 +66,52 @@ Para executar os códigos neste repositório, você precisará ter um compilador
 
 ---
 
-## Estrutura do Repositório
+## 🎥 Vídeos de Codificação
 
+Aqui estão alguns vídeos que podem ajudar no seu aprendizado de C e C++:
 
-- **projetos/**: Contém projetos maiores desenvolvidos durante o aprendizado.
-- **exemplos/**: Exemplos de códigos e exercícios.
+- [C++ Programming Tutorials](https://www.youtube.com/watch?v=Zza_ARS78Og) - Um tutorial introdutório sobre C++.
+- [C Programming Tutorials](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Um tutorial introdutório sobre C.
+- [Terminal Basics](https://www.youtube.com/watch?v=wxKNk2SxL7Q) - Uma visão geral dos comandos básicos do terminal.
+- [Coding in C++ - Live Coding Session](https://www.youtube.com/watch?v=8O0Y6Xp9N0U) - Uma sessão de codificação ao vivo em C++.
 
 ---
 
-## Tutoriais e Links Úteis
+## 🔗 Tutoriais e Links Úteis
 
 - [Documentação C++](https://en.cppreference.com/w/)
 - [Learn C++](https://www.learncpp.com/)
 - [Codecademy - Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
+- [Documentação C](https://en.cppreference.com/w/c)
 
 ---
 
-## Gráficos de Commits e Atividade do Repositório
-
-![Gráfico de Commits](https://ghchart.rshinyapps.io/Giovani-Simple-Dev/C-Knowledge) <!-- Gráfico gerado pelo ghchart -->
-
-![Gráfico de Atividade](https://img.shields.io/github/commit-activity/m/Giovani-Simple-Dev/C-Knowledge) <!-- Gráfico de atividade de commits -->
-
----
-
-## Contador de Visitas
+## 📊 Contador de Visitas
 
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Giovani-Simple-Dev.C-Knowledge)
 
 ---
 
-## Contagem de Push's (Commits)
+## 📈 Contagem de Excelência de Execução com Base nas Linguagens
 
-![GitHub commits](https://badgen.net/github/commits/Giovani-Simple-Dev/C-Knowledge)
-
----
-
-## Contagem de Excelência de Execução com Base nas Linguagens
-
-Aqui está a distribuição das linguagens usadas no repositório com base nos pushs.
+Aqui está a distribuição das linguagens usadas no repositório.
 
 ![Linguagens](https://img.shields.io/github/languages/top/Giovani-Simple-Dev/C-Knowledge)
 
 ---
 
-## Estatísticas do Repositório
+## ⭐ Estatísticas do Repositório
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Giovani-Simple-Dev/C-Knowledge?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Giovani-Simple-Dev/C-Knowledge?style=social)
 
 ---
 
-## Exemplos de Uso
+## 💡 Exemplos de Uso
 
 Aqui estão alguns exemplos de como você pode usar os códigos e projetos neste repositório:
+
+### Exemplo em C++
 
 ```cpp
 #include <iostream>
