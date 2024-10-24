@@ -1,4 +1,4 @@
-# 📚 C-Knowledge: Aprendizado em C e C++
+# 📚 C-Knowledge: Aprendizado em C
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 ## Introdução
 
-Bem-vindo ao repositório **C-Knowledge**! Este projeto contém todos os arquivos e projetos que desenvolvi durante meu aprendizado em C e C++. O objetivo é explorar e implementar conceitos fundamentais de programação, compartilhar conhecimento e documentar as experiências adquiridas.
+Bem-vindo ao repositório **C-Knowledge**! Este projeto contém todos os arquivos e projetos que desenvolvi durante meu aprendizado em C. O objetivo é explorar e implementar conceitos fundamentais de programação, compartilhar conhecimento e documentar as experiências adquiridas.
 
 ---
 
@@ -36,7 +36,7 @@ Bem-vindo ao repositório **C-Knowledge**! Este projeto contém todos os arquivo
 
 ## 🎯 Objetivos do Projeto
 
-- Aprender e aplicar conceitos de programação em C e C++.
+- Aprender e aplicar conceitos de programação em C.
 - Criar uma base sólida em estruturas de dados e algoritmos.
 - Compartilhar exemplos práticos e desafios enfrentados.
 - Aprimorar habilidades em resolução de problemas e lógica de programação.
@@ -51,7 +51,7 @@ Bem-vindo ao repositório **C-Knowledge**! Este projeto contém todos os arquivo
 
 ## 🛠️ Instalação
 
-Para executar os códigos neste repositório, você precisará ter um compilador C/C++ instalado. Recomenda-se o uso do [g++](https://gcc.gnu.org/) ou [Visual Studio](https://visualstudio.microsoft.com/).
+Para executar os códigos neste repositório, você precisará ter um compilador  instalado. Recomenda-se o uso do [g++](https://gcc.gnu.org/) e do [Visual Studio](https://visualstudio.microsoft.com/).
 
 ### Passos para Instalação:
 
