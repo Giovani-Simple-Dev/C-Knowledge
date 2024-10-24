@@ -107,6 +107,7 @@ Aqui está a distribuição das linguagens usadas no repositório.
 
 ---
 
+
 ## 💡 Exemplos de Uso
 
 Aqui estão alguns exemplos de como você pode usar os códigos e projetos neste repositório:
