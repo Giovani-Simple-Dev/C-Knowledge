@@ -11,7 +11,7 @@
 
 ## Contador de Visitas
 
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Giovani-Simple-Dev./C-Knowloedge)
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Giovani-Simple-Dev.C-Knowloedge)
 
 ---
 
